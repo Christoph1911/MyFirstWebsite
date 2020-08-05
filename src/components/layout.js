@@ -8,7 +8,7 @@ const ListLink = props => (
 
 export default function Layout({ children }) {
   return (
-    <div style={{ margin: `3rem auto`, maxWidth: 650, padding: `0 1rem` }}>
+    <div style={{ margin: `3rem auto`, maxWidth: 650, padding: `0 1rem`,background-color: lavenderblush}}>
       <header style={{ marginBottom: `1.5rem` }}>
         <Link to="/" style={{ textShadow: `none`, backgroundImage: `none`, backgroundColor: `#FFD35D`}}>
           <h3 style={{ display: `inline` }}>Christoph Paltzer</h3>
