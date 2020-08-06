@@ -12,7 +12,7 @@ export default function About() {
       </p>
       <p>
         I'm interested in programming and have tried a few different programming languages: C#, Java, Javascript, Python. I got into programming in school, where I started eperimenting with the Arduino.
-        Other hobbys are Karate , playing the saxophone and chess. 
+        Other hobbys are Karate, playing the saxophone and chess. 
       </p>
       <p>
         My greatest passion is speedcubing (You try to solve the rubik's cube and other twisty puzzles as quickly as possible).
