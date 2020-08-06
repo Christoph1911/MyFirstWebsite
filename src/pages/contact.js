@@ -7,7 +7,7 @@ export default function Contact() {
       <h1>Contact me here:</h1>
       <p>
       <a href="mailto:christophpaltzer@gmail.com">christophpaltzer@gmail.com</a>
-      <Link href="https://github.com/Christoph1911">My Github</Link>
+      <a href="https://github.com/Christoph1911">My Github</a>
       </p>
     </Layout>
   )
