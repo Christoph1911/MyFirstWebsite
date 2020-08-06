@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 export default function Contact() {
   return (
     <Layout>
-      <h1>I'd love to talk! Email me at the address below</h1>
+      <h1>Contact me here:</h1>
       <p>
       <a href="mailto:christophpaltzer@gmail.com">christophpaltzer@gmail.com</a>
       </p>
