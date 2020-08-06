@@ -4,10 +4,9 @@ import Layout from "../components/layout"
 export default function Home() {
   return (
     <Layout>
-      <h1>Hi! I'm Christoph.</h1>
+      <h1>Hi! My name is Christoph Paltzer.</h1>
       <p>
-        What do I like to do? Lots of course but definitely enjoy building
-        websites.
+        Nice to meet you!
       </p>
     </Layout>
   )
