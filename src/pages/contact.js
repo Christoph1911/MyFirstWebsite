@@ -10,7 +10,7 @@ export default function Contact() {
       
       </p>
       <p>
-        <a href="https://github.com/Christoph1911">My Github</a>
+        <a href="https://github.com/Christoph1911">Github</a>
       </p>
     </Layout>
   )
