@@ -8,7 +8,7 @@ export default function About() {
       <p>
         This is my first Website!
       </p>
-      <p><ListLink to="/aboutDE">DE</ListLink>
+      <p><ListLink to="/aboutDE/">DE</ListLink>
           <ListLink to="/about/">EN</ListLink></p>
     </Layout>
   )
