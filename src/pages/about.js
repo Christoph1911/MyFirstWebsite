@@ -15,7 +15,7 @@ export default function About() {
         Other hobbys are Karate and playing the saxophone. 
       </p>
       <p>
-        But my gratest passion is speedcubing (You try to solve the rubik's cube and other twisty puzzles as quickly as possible).
+        My greatest passion is speedcubing (You try to solve the rubik's cube and other twisty puzzles as quickly as possible).
         Here you can view my <a href="https://www.worldcubeassociation.org/persons/2017PALT01">WCA profile</a>.
       </p>
     </Layout>
